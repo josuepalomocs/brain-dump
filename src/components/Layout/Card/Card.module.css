@@ -1,0 +1,21 @@
+.componentContainer {
+  margin: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--border-light);
+}
+
+.titleContainer {
+  padding-bottom: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.titleContainerText {
+  font-size: var(--font-size-lg);
+}
+
+.contentContainer {
+}
+
+.contentContainerText {
+}
